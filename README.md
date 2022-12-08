@@ -1,16 +1,7 @@
 # image_generator
 
-A new Flutter project.
+A new flutter project which uses dall-e2 which is from openAPI and still in beta phase.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A text to image app which uses DALL -E2 machine learning models for
+generating images beased on user input. To achieve this flutter
+framework was used with riverpod as a state management architecture.
