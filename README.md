@@ -1,4 +1,4 @@
-# image_generator
+# TEXT TO IMAGE GENERATOR WITH DALL-E2
 
 A new flutter project which uses dall-e2 which is from openAPI and still in beta phase.
 
